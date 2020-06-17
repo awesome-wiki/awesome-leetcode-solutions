@@ -8,4 +8,4 @@
 ## 数据结构
 
 * [前言](data-stucture/README.md)
-    * [数组](data-sturcture/数组.md)
+    * [数组](data-sturcture/array.md)
