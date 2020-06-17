@@ -6,6 +6,6 @@
 
 |  #   | Problems                                                     | Tag                    |
 | :--: | :----------------------------------------------------------- | ---------------------- |
-| 0001 | [Two Sum](solutions/0001-two-sum/README.md)                  |                        |
+| 0001 | [Two Sum](solutions/0001-valid-anagram/README.md)                  |                        |
 | 0242 | [Valid Anagram/有效的字幕异位词](solutions/0242-two-sum/README.md) | Search/Sort/Hash Table |
 
