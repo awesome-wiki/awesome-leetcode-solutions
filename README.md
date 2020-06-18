@@ -13,3 +13,14 @@
 - 将解题过程中的 Java 常用 API 总结 —— Java 基础篇；
 - 总结提炼 LeetCode 中涉及的一些常用解题技巧和思路，升华篇；
 
+## LeetCode 优解篇
+
+* Easy
+    * [0001 - Two Sum/两数之和](solutions/0001-two-sum/README.md)
+    * [0242 - Valid Anagram/有效的字母异位词](solutions/0242-valid-anagram/README.md) 排序、哈希表
+* Medium
+* Hard
+
+## Java 常用操作
+* [数据结构](data-structure/README.md)
+    * [array](data-structure/array.md)
