@@ -10,6 +10,6 @@
 * Medium
 * Hard
 
-## Java 常用操作
+## Java 基础篇
 * [数据结构](data-structure/README.md)
     * [array](data-structure/array.md)
