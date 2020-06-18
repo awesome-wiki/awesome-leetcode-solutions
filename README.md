@@ -8,6 +8,10 @@
 
 折腾了两天 Gitbook 搭建的，总算搞明白了，抽空在公众号总结一下教程。
 
+欢迎关注公众号公众号「Coder魔法院」☑工具控 ☑编程 ☑读书☑电影
+
+![](images/0000-media/coder-magic-public.png)
+
 本小册主要希望达到如下几个目标：
 - LeetCode Top 200 的题目熟悉并总结好优质的解题答案 —— 优解篇；
 - 将解题过程中的 Java 常用 API 总结 —— Java 基础篇；
@@ -20,7 +24,3 @@
     * [0242 - Valid Anagram/有效的字母异位词](solutions/0242-ValidAnagram/README.md) | 排序、哈希表
 * Medium
 * Hard
-
-## Java 基础篇
-* [数据结构](data-structure/README.md)
-    * [array](data-structure/array.md)
