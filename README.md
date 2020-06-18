@@ -1,11 +1,5 @@
 # awesome-leetcode-solutions
 
-<p align="center">
-    <a href="https://github.com/awesome-wiki/awesome-wiki-bookmarks" target="_blank">
-        <img src="https://gitee.com/michael_xiang/images/raw/master/uPic/awesome-wiki-bookmarks.png" width=""/>
-    </a>
-</p>
-
 <!-- 徽章（Badge） -->
 <p align="center">
   <a href="https://michael728.github.io/">
@@ -24,8 +18,6 @@
 ## 前言
 
 刷题的背景当然是无奈的，但不希望为了刷题而刷题！希望通过刷题的过程，能够有所其他的收获。
-
-折腾了两天 Gitbook 搭建的，总算搞明白了，抽空在公众号总结一下教程。
 
 欢迎关注公众号公众号「Coder魔法院」☑工具控 ☑编程 ☑读书☑电影
 
