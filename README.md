@@ -28,6 +28,11 @@
 - 将解题过程中的 Java 常用 API 总结 —— Java 基础篇；
 - 总结提炼 LeetCode 中涉及的一些常用解题技巧和思路，升华篇；
 
+本小册「食用方法」：
+- Tip1: Star 本仓库，可以 Watch 下拉菜单选择 `Watching`，这样有更新会有收到提示；
+- Tip2: 在线阅读 https://coder-magic.gitbook.io/awesome-leetcode-solutions/ 搜索内容会方便
+- Tip3: 关注公众号，经常会分享实用的开发文章以及本仓库的总结内容；
+
 ## LeetCode 优解篇
 
 * Easy
