@@ -4,7 +4,7 @@
 
 ## Java 常用操作
 * [数据结构](data-stucture/README.md)
-    * [数组](data-sturcture/array.md)
+  * [array](data-sturcture/array.md)
 
 ## LeetCode 题解
 
