@@ -1,6 +1,25 @@
 # awesome-leetcode-solutions
 
-> 尽力做最酷的 LeetCode 题解资源
+<p align="center">
+    <a href="https://github.com/awesome-wiki/awesome-wiki-bookmarks" target="_blank">
+        <img src="https://gitee.com/michael_xiang/images/raw/master/uPic/awesome-wiki-bookmarks.png" width=""/>
+    </a>
+</p>
+
+<!-- 徽章（Badge） -->
+<p align="center">
+  <a href="https://michael728.github.io/">
+    <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Blog-brightgreen" alt="Blog">
+  </a>
+  <a href="#公众号">
+    <img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Coder%E9%AD%94%E6%B3%95%E9%99%A2-blue" alt="公众号">
+  </a>
+  <a href="#">
+    <img alt="GitHub" src="https://img.shields.io/github/license/awesome-wiki/awesome-wiki-bookmarks">
+  </a>
+</p>
+
+> 努力做最酷、最良心的 LeetCode 题解小册！🚀
 
 ## 前言
 
