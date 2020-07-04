@@ -21,7 +21,9 @@
 
 欢迎关注公众号公众号「Coder魔法院」☑工具控 ☑编程 ☑读书☑电影
 
-![微信公众号](images/0000-media/coder-magic-public.png)
+<!-- ![微信公众号](images/0000-media/coder-magic-public.png) -->
+
+![公众号-二维码-截图](https://gitee.com/michael_xiang/images/raw/master/uPic/公众号-二维码-截图.png)
 
 本小册主要希望达到如下几个目标：
 - LeetCode Top 200 的题目熟悉并总结好优质的解题答案 —— 优解篇；
