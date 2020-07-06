@@ -1,4 +1,4 @@
-# [49 字母异位词分组/Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/)
+# [49 Group Anagrams/字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
 
 ## Problems
 

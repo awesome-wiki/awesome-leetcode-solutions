@@ -1,4 +1,4 @@
-# [202-快乐数/Happy Number](https://leetcode-cn.com/problems/happy-number)
+# [202-Happy Number/快乐数](https://leetcode-cn.com/problems/happy-number)
 
 ## Problems
 
