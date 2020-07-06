@@ -2,6 +2,8 @@
 
 ## Problems
 
+[202-Happy Number/快乐数](https://leetcode-cn.com/problems/happy-number)
+
 ### CN
 
 编写一个算法来判断一个数 n 是不是快乐数。

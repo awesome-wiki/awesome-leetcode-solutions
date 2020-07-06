@@ -2,6 +2,8 @@
 
 ## Problems
 
+[226-翻转二叉树/Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree)
+
 ### CN
 
 翻转一棵二叉树。
