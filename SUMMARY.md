@@ -16,14 +16,14 @@
     * 图
     * 位运算
 * 算法思想
-    * 双指针
+    * 01-递归
+        * [0226 - Invert Binary Tree/翻转二叉树](solutions/0226-InvertBinaryTree/README.md) | 树、递归
+    * 02-双指针
         * [0001 - Two Sum/两数之和](solutions/0001-TwoSum/README.md)
         * [0049 - Group Anagrams/字母异位词分组](solutions/0049-GroupAnagrams/README.md) | 哈希表
-    * 递归
-        * [0226 - Invert Binary Tree/翻转二叉树](solutions/0226-InvertBinaryTree/README.md) | 树、递归
-    * 贪心思想
-    * 二分查找
-    * 排序
+    * 03-贪心思想
+    * 04-二分查找
+    * 05-排序
         * [0202 - Happy Number/快乐数](solutions/0202-HappyNumber/README.md) | 排序、哈希表
         * [0242 - Valid Anagram/有效的字母异位词](solutions/0242-ValidAnagram/README.md) | 哈希表、数学
         * [0070 - Climbing Stairs/爬楼梯](solutions/0070-ClimbingStairs/README.md) | 递归、动态规划  
