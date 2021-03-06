@@ -1,6 +1,7 @@
 
-# Two Sum
+# 两数之和-Two Sum
 
+[力扣](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
 ## 题目
 给定一个已按照 升序排列  的整数数组 numbers ，请你从数组中找出两个数满足相加之和等于目标数 target 。
 
@@ -33,12 +34,6 @@
 
 ### 双指针
 
-#### 思路
-
-
-
-#### 代码
-
 ```java
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
@@ -59,6 +54,6 @@ class Solution {
 }
 ```
 
-#### 复杂度分析
+复杂度分析：
 - 时间复杂度：O(n)，其中 nn 是数组的长度。两个指针移动的总次数最多为 nn 次。
 - 空间复杂度：O(1)
