@@ -2,20 +2,19 @@
 
 * [简介](README.md)
 
-## Java 语法基础篇
-* [数据结构](data-structure/README.md)
+* Java 常用语法
     * [Array](data-structure/Array.md)
     * [Set](data-structure/Set.md)
     * [Map](data-structure/Map.md)
 
-## 数据结构
-* 链表
-* 栈和队列
-* 哈希表
-* 字符串
-* 树
-* 图
-* 位运算
+* [数据结构](data-structure/README.md)
+    * 链表
+    * 栈和队列
+    * 哈希表
+    * 字符串
+    * 树
+    * 图
+    * 位运算
 ## LeetCode 优解篇
 * 双指针
     * [0001 - Two Sum/两数之和](solutions/0001-TwoSum/README.md)
