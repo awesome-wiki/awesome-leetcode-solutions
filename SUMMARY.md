@@ -2,10 +2,10 @@
 
 * [简介](README.md)
 
-* Java 常用语法
-    * [Array](data-structure/Array.md)
-    * [Set](data-structure/Set.md)
-    * [Map](data-structure/Map.md)
+* [Java 常用语法](java-basic/README.md)
+    * [Array](java-basic/Array.md)
+    * [Set](java-basic/Set.md)
+    * [Map](java-basic/Map.md)
 
 * [数据结构](data-structure/README.md)
     * 链表
