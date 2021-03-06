@@ -19,7 +19,7 @@
     * 01-递归
         * [0226 - Invert Binary Tree/翻转二叉树](solutions/0226-InvertBinaryTree/README.md) | 树、递归
     * 02-双指针
-        * [0001 - Two Sum/两数之和](solutions/0001-TwoSum/README.md)
+        * [0167-Easy-两数之和-Two Sum](solutions/0167-Easy-两数之和-Two Sum.md)
         * [0049 - Group Anagrams/字母异位词分组](solutions/0049-GroupAnagrams/README.md) | 哈希表
     * 03-贪心思想
     * 04-二分查找
