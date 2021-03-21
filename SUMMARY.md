@@ -26,4 +26,4 @@
     * 05-排序
         * [0202-Easy-HappyNumber-快乐数](solutions/0202-Easy-HappyNumber-快乐数.md) | 排序、哈希表
         * [0242-Easy-ValidAnagram-有效的字母异位词](solutions/0242-Easy-ValidAnagram-有效的字母异位词.md) | 哈希表、数学
-        * [0070-ClimbingStairs-爬楼梯](solutions/0070-Easy-ClimbingStairs-爬楼梯.md) | 递归、动态规划  
+        * [0070-Easy-ClimbingStairs-爬楼梯](solutions/0070-Easy-ClimbingStairs-爬楼梯.md) | 递归、动态规划  
