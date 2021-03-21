@@ -17,7 +17,7 @@
     * 位运算
 * 算法思想
     * 01-递归
-        * [0226-Easy-InvertBinaryTree-翻转二叉树](solutions/0226-Easy-InvertBinaryTree-翻转二叉树) | 树、递归
+        * [0226-Easy-InvertBinaryTree-翻转二叉树](solutions/0226-Easy-InvertBinaryTree-翻转二叉树.md) | 树、递归
     * 02-双指针
         * [0167-Easy-TwoSum-两数之和](solutions/0167-Easy-TwoSum-两数之和.md)
         * [0049-Medium-GroupAnagrams-字母异位词分组](solutions/0049-Medium-字母异位词分组-GroupAnagrams) | 哈希表
