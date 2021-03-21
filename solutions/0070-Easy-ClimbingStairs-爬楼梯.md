@@ -1,14 +1,13 @@
-# [70-爬楼梯/Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)
+# 70-ClimbingStairs-爬楼梯
 
-## Problems
+[力扣](https://leetcode-cn.com/problems/climbing-stairs/)
+## 问题
 
 [70-爬楼梯/Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)
 
-### CN
+假设你正在爬楼梯。需要 n 阶你才能到达楼顶。每次你可以爬 1 或 2 个台阶。你有多少种不同的方法可以爬到楼顶呢？
 
-假设你正在爬楼梯。需要 n 阶你才能到达楼顶。
-
-每次你可以爬 1 或 2 个台阶。你有多少种不同的方法可以爬到楼顶呢？
+> You are climbing a stair case. It takes n steps to reach to the top.Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
 
 注意：给定 n 是一个正整数。
 
@@ -32,38 +31,11 @@
 3.  2 阶 + 1 阶
 ```
 
-### EN
-
-You are climbing a stair case. It takes n steps to reach to the top.
-
-Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
-
-Example 1:
-
-```
-Input: 2
-Output: 2
-Explanation: There are two ways to climb to the top.
-1. 1 step + 1 step
-2. 2 steps
-```
-
-Example 2:
-
-```
-Input: 3
-Output: 3
-Explanation: There are three ways to climb to the top.
-1. 1 step + 1 step + 1 step
-2. 1 step + 2 steps
-3. 2 steps + 1 step
-```
-
-## 解法
+## 题解
 
 除了递归之外，大部分题解都是采用的动态规划。
 
-### 解法一：递归
+### 递归
 
 官方题解：[递归求解，数组存值](https://leetcode-cn.com/problems/climbing-stairs/solution/di-gui-qiu-jie-shu-zu-cun-zhi-by-rang-dan-dan-fei/) 用的递归
 
