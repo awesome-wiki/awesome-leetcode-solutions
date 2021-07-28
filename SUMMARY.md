@@ -16,7 +16,7 @@
     * 图
     * 位运算
 * 算法思想
-    * 01-递归
+    * [01-递归](summary/01-summary-recursion.md)
         * [0226-Easy-InvertBinaryTree-翻转二叉树](solutions/0226-Easy-InvertBinaryTree-翻转二叉树.md) | 树 递归
         * [0070-Easy-ClimbingStairs-爬楼梯](solutions/0070-Easy-ClimbingStairs-爬楼梯.md) | 递归 动态规划
         * [0024-Medium-SwapNodesinPairs-两两交换链表中的节点](solutions/0024-Medium-SwapNodesinPairs-两两交换链表中的节点.md)
