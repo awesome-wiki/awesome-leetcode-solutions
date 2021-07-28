@@ -19,9 +19,10 @@
     * 01-递归
         * [0226-Easy-InvertBinaryTree-翻转二叉树](solutions/0226-Easy-InvertBinaryTree-翻转二叉树.md) | 树 递归
         * [0070-Easy-ClimbingStairs-爬楼梯](solutions/0070-Easy-ClimbingStairs-爬楼梯.md) | 递归 动态规划
+        * [0024-Medium-SwapNodesinPairs-两两交换链表中的节点](solutions/0024-Medium-SwapNodesinPairs-两两交换链表中的节点.md)
     * 02-双指针
         * [0167-Easy-TwoSum-两数之和](solutions/0167-Easy-TwoSum-两数之和.md)
-        * [0049-Medium-GroupAnagrams-字母异位词分组](solutions/0049-Medium-字母异位词分组-GroupAnagrams.md) | 哈希表
+        * [0049-Medium-GroupAnagrams-字母异位词分组](solutions/0049-Medium-GroupAnagrams-字母异位词分组.md) | 哈希表
     * 03-贪心思想
     * 04-二分查找
     * 05-排序
