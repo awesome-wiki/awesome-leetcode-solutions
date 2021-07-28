@@ -42,9 +42,11 @@
  */
 class Solution {
     public int maxDepth(TreeNode root) {
+        // 根为空，终止条件
         if (root == null) {
             return 0;
         }
+        // 当前根的最大深度，则需要取左节点最大深度与右节点最大深度的最大值，然后 + 1
         return  1 + Math.max(maxDepth(root.left), maxDepth(root.right));
     }
 }
