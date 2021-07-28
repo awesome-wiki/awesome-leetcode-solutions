@@ -6,6 +6,8 @@
 
 你不能只是单纯的改变节点内部的值，而是需要实际的进行节点交换。
 
+实例 1：
+
 ![示例](https://gitee.com/michael_xiang/images/raw/master/uPic/jJxRpJ.png)
 
 ```
