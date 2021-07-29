@@ -21,6 +21,7 @@
         * [0070-Easy-爬楼梯](solutions/0070-Easy-ClimbingStairs-爬楼梯.md) | 递归 动态规划
         * [0024-Medium-两两交换链表中的节点](solutions/0024-Medium-SwapNodesinPairs-两两交换链表中的节点.md)
         * [0104-Easy-二叉树的最大深度](solutions/0104-Easy-MaximumDepthofBinaryTree-二叉树的最大深度.md)
+        * [0144-Easy二叉树的前序遍历](solutions/0144-Easy二叉树的前序遍历.md)
     * 02-双指针
         * [0167-Easy-TwoSum-两数之和](solutions/0167-Easy-TwoSum-两数之和.md)
         * [0049-Medium-GroupAnagrams-字母异位词分组](solutions/0049-Medium-GroupAnagrams-字母异位词分组.md) | 哈希表
