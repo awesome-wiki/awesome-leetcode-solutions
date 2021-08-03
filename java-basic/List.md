@@ -1,5 +1,5 @@
 # Java List 相关的基本操作
-
+## ArrayList
 ```java
 // 什么时候使用Array（数组），什么时候使用ArrayList?
 // 答案是：当我们不知道到底有多少个数据元素的时候，就可使用ArrayList；如果知道数据集合有多少个元素，就用数组。
@@ -84,4 +84,43 @@ System.out.println(list.toString());
 // 从链表中删除所有元素，无返回值
 list.clear();
 System.out.println(list);
+```
+
+## LinkedList
+
+ArrayList 是一个数组队列，LinkedList 是一种链表队列。与 ArrayList 相比，LinkedList 的增加和删除对操作效率更高。
+
+> 当需要频繁在列表开头、末尾增删元素操作时，推荐用 LinkedList。
+
+LinkedList 是 List 接口的实现类，同时，也是也实现了 Deque（双端队列） 接口。因此，既可以当成栈来使用，也可以当成队列来使用。
+
+```java
+LinkedList<String> linkedList = new LinkedList<>();
+linkedList.add("One");
+linkedList.addLast("Two");
+linkedList.addFirst("Zero");
+linkedList.add("Three");
+linkedList.add("Four");
+System.out.println(linkedList);
+
+// 仅仅是取元素
+System.out.println(linkedList.getFirst());
+System.out.println(linkedList.getLast());
+// 获取列表首元素
+System.out.println(linkedList.peek());
+System.out.println(linkedList.peekFirst());
+// 获取列表尾元素
+System.out.println(linkedList.peekLast());
+
+// 取出列表的头元素并移除
+System.out.println(linkedList.poll());
+// 取出列表的头元素并移除
+System.out.println(linkedList.pollFirst());
+// 去列表最后元素并移除
+System.out.println(linkedList.pollLast());
+
+// 移除并返回列表首元素，如果列表为空，这个会抛异常
+System.out.println(linkedList.removeFirst());
+// 移除发病返回列表尾元素，如果列表为空，会抛异常
+System.out.println(linkedList.removeLast());
 ```

@@ -39,4 +39,5 @@
 
 ## 联系
 
-在练习递归的过程中，发现链表和树的题目出现频率挺高，可以继续留意，是不是这类结构特适合用递归来解呢？
+在 LeetCode 题解中也提到了一个[经验](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-leetc-2/)：
+> 树的问题通常可以用递归解决！
