@@ -135,6 +135,71 @@ public class Solution {
 }
 ```
 
+回溯有一个重要点，执行完递归时，回到一开始起点时，状态要保持不变。因此，可以留意递归内部的参数，如果参数是有改变的场景，那么，调用函数自身的上下应该会有恢复状态的操作。
+
+比如 [leetcode 46](https://leetcode-cn.com/problems/permutations/) 道题中，递归时调用方法自身，方法中的参数是列表，传进去之前修改了这个参数值，那么，下面一行会有恢复状态的操作。
+```java
+
+```
+
+比如 [leetcode 22 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)这道题，调用方法本身进入递归时，传入的参数是在传入时内部进行的计算，而不是进去之前进行的操作，因此，就没有恢复状态的步骤。
+```java
+class Solution {
+    List<String> result = new ArrayList<>();
+    public List<String> generateParenthesis(int n) {
+        backtrack("", 0, 0, n);
+        return result;
+    }
+
+    private void backtrack(String s, int left, int right, int N) {
+        if (left == N && right == N) {
+            result.add(s);
+            return ;
+        }
+        if (left < right) {
+            return;
+        }
+        if (left < N) {
+            backtrack(s + '(', left + 1, right, N);
+        }
+        if (right < N) {
+            backtrack(s + ')', left, right + 1, N);
+        }
+    }
+}
+```
+
+如果上述 22 题改成如下写法，那么可以看到恢复状态的步骤了：
+```java
+class Solution {
+    List<String> result = new ArrayList<>();
+    public List<String> generateParenthesis(int n) {
+        backtrack("", 0, 0, n);
+        return result;
+    }
+
+    private void backtrack(String s, int left, int right, int N) {
+        if (left == N && right == N) {
+            result.add(s);
+            return ;
+        }
+        if (left < right) {
+            return;
+        }
+        if (left < N) {
+            s = s + "(";
+            backtrack(s, left + 1, right, N);
+            s = s.substring(0, s.length() - 1);
+        }
+        if (right < N) {
+            s = s + ")";
+            backtrack(s, left, right + 1, N);
+            s = s.substring(0, s.length() - 1);
+        }
+    }
+}
+```
+
 ## 回溯练习题
 
 典型例题

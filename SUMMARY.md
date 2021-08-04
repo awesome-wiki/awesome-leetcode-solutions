@@ -6,6 +6,7 @@
     * [Array](java-basic/Array.md)
     * [Set](java-basic/Set.md)
     * [Map](java-basic/Map.md)
+    * [String](java-basic/String.md)
 
 * [数据结构](data-structure/README.md)
     * 链表
