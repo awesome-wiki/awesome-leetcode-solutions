@@ -26,6 +26,8 @@
     * [DFS-回溯](summary/02-summary-dfs.md)
         * [0046-Medium-全排列](solutions/0046-Medium-全排列.md)
         * [0079-Medium-WordSearch-单词搜索](solutions/0079-Medium-WordSearch-单词搜索.md)
+    * 滑动窗口
+        * [0209-Medium-长度最小的子数组](solutions/0209-Medium-MinimumSizeSubarraySum-长度最小的子数组.md)
     * 双指针
         * [0167-Easy-TwoSum-两数之和](solutions/0167-Easy-TwoSum-两数之和.md)
         * [0049-Medium-GroupAnagrams-字母异位词分组](solutions/0049-Medium-GroupAnagrams-字母异位词分组.md) | 哈希表
