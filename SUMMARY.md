@@ -29,6 +29,8 @@
     * 滑动窗口
         * [0209-Medium-长度最小的子数组](solutions/0209-Medium-MinimumSizeSubarraySum-长度最小的子数组.md)
     * 双指针
+        * [0026-Easy-删除有序数组中的重复项](solutions/0026-Easy-删除有序数组中的重复项.md) 同向
+        * [0344-Easy-反转字符串](solutions/0344-Easy-反转字符串.md) 反向
         * [0167-Easy-TwoSum-两数之和](solutions/0167-Easy-TwoSum-两数之和.md)
         * [0049-Medium-GroupAnagrams-字母异位词分组](solutions/0049-Medium-GroupAnagrams-字母异位词分组.md) | 哈希表
     * 贪心思想
